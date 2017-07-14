@@ -5,6 +5,7 @@
 //It's designed this way so that I can easily pull the quote, author, and source to display on the web app.
 
 favoriteQuotes = {
+  
   "Friedrich Nietzsche": {
     "1": ["The Gay Science", "1882", "Every philosophy that ranks peace above war, every ethic with a negative definition of happiness, every metaphysics and physics that knows some finale, some final state of some sort, every predominantly aesthetic or religious craving for some Apart, Beyond, Outside, Above, permits the question whether it was not sickness that inspired the philosopher. The unconscious disguise of physiological needs under the cloaks of the objective, ideal, purely spiritual goes to frightening lengths–and often I have asked myself whether, taking a large view, philosophy has not been merely an interpretation of the body and a misunderstanding of the body."],
     "2": ["The Gay Science", "1882", "…constantly, we have to give birth to our thoughts out of our pain and, like mothers, endow them with all we have of blood, heart, fire, pleasure, passion, agony, conscience, fate, and catastrophe."],
@@ -20,14 +21,17 @@ favoriteQuotes = {
   },
   
   "James Baldwin": {
+    "1": ["Giovanni's Room", "1956", "People can't, unhappily, invent their mooring posts, their lovers and their friends, anymore than they can invent their parents. Life gives these and also takes them away and the great difficulty is to say Yes to life."],
+    "2": ["Giovanni's Room", "1956", "Perhaps home is not a place but simply an irrevocable condition."],
+    "3": ["Giovanni's Room", "1956", "There are so many ways of being despicable it quite makes one’s head spin. But the way to be really despicable is to be contemptuous of other people’s pain."],
+    "4": ["Giovanni's Room", "1956", "You don’t have a home until you leave it and then, when you have left it, you never can go back."],
+    "5": ["Giovanni's Room", "1956", "Perhaps, as we say in America, I wanted to find myself. This is an interesting phrase, not current as far as I know in the language of any other people, which certainly does not mean what it says but betrays a nagging suspicion that something has been misplaced. I think now that if I had any intimation that the self I was going to find would turn out to be only the same self from which I had spent so much time in flight, I would have stayed at home."],
   },
   
   "Mary Oliver": {
+    "1": ["Wild Geese: Selected Poems", "1993", "You must not ever stop being whimsical. And you must not, ever, give anyone else the responsibility for your life."],
   },
-  
-  "Khalil Gibron": {
-  },
-  
+
   "Confucius": {
   },
   
@@ -44,6 +48,9 @@ favoriteQuotes = {
   },
   
   "Soren Kierkegaard": {
+    "1": ["Either/Or", "1843", "If I were to wish for anything, I should not wish for wealth and power, but for the passionate sense of the potential, for the eye which, ever young and ardent, sees the possible. Pleasure disappoints, possibility never. And what wine is so sparkling, what so fragrant, what so intoxicating, as possibility!"],
+    "2": ["Either/Or", "1843", "Let other complain that the age is wicked; my complaint is that it is paltry; for it lacks passion. Men's thoughts are thin and flimsy like lace, they are themselves pitiable like the lacemakers. The thoughts of their hearts are too paltry to be sinful. For a worm it might be regarded as a sin to harbor such thoughts, but not for a being made in the image of God. Their lusts are dull and sluggish, their passions sleepy...This is the reason my soul always turns back to the Old Testament and to Shakespeare. I feel that those who speak there are at least human beings: they hate, they love, they murder their enemies, and curse their descendants throughout all generations, they sin."],
+    "3": ["Either/Or", "1843", "Language has time as its element; all other media have space as their element."],
   },
   
   "Bertrand Russell": {
@@ -89,4 +96,5 @@ favoriteQuotes = {
   "Oscar Wilde": {
     "1": ["The Picture of Dorian Gray", "1890", "Humanity takes itself too seriously. It is the world's original sin. If the caveman had known how to laugh, history would have been different.],
           },
+          
           }
