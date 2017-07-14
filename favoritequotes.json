@@ -31,9 +31,6 @@ favoriteQuotes = {
   "Mary Oliver": {
     "1": ["Wild Geese: Selected Poems", "1993", "You must not ever stop being whimsical. And you must not, ever, give anyone else the responsibility for your life."],
   },
-
-  "Confucius": {
-  },
   
   "Georg Simmel": {
     "1": ["The Metropolis and Mental Life", "1903", "Man is a differentiating creature. His mind is stimulated by the difference between a momentary impression and the one which preceded it."],
@@ -145,10 +142,17 @@ favoriteQuotes = {
     "8": ["Notes from Underground", "1864", "I admit that twice two makes four is an excellent thing, but if we are to give everything its due, twice two makes five is sometimes a very charming thing too."]
   },
   
-  "Janna Levin" {
-  "1": ["A Madman Dreams of Turing Machines", "2006", "As the blood poured from his tattered heart into the open air and his brain suffocated, all those incomplete thoughts of Wittgenstein decayed with the dying neurons. Neural connections in the gray matter storing memories and ideas in their ordered configurations fired across the gaps, last gaps of mental life. Thoughts on Truth and Will were erased as flesh sloshed soft and limp against alabaster, no more than rotting human fruit."],
-  "2": ["A Madman Dreams of Turing Machines", "2006", "Sure one could argue the naturalist's case that the mind experiences an external reality in which it participates. But how can this account really satisfy us, Olga? One could equally well argue that all experiences is highly subjective, that the only thing we really have is the image, the smell, the taste, and all of our assertions about the universe are constructions of the human mind."],
-  "3": ["A Madman Dreams of Turing Machines", "2006", "We are all caught in the stream of a complicated legacy - a proof of the limits of human reason, a proof of our boundlessness. A declaration that were were down here on this crowded, lonely planet, a declaration that we mattered, we living clumps of ash, that each of us was once somebody, that we strove for what we could never have, that we could admit as much. That was us - funny and lousy and great all at once."]
-},
-
+  "Janna Levin": {
+    "1": ["A Madman Dreams of Turing Machines", "2006", "As the blood poured from his tattered heart into the open air and his brain suffocated, all those incomplete thoughts of Wittgenstein decayed with the dying neurons. Neural connections in the gray matter storing memories and ideas in their ordered configurations fired across the gaps, last gaps of mental life. Thoughts on Truth and Will were erased as flesh sloshed soft and limp against alabaster, no more than rotting human fruit."],
+    "2": ["A Madman Dreams of Turing Machines", "2006", "Sure one could argue the naturalist's case that the mind experiences an external reality in which it participates. But how can this account really satisfy us, Olga? One could equally well argue that all experiences is highly subjective, that the only thing we really have is the image, the smell, the taste, and all of our assertions about the universe are constructions of the human mind."],
+    "3": ["A Madman Dreams of Turing Machines", "2006", "We are all caught in the stream of a complicated legacy - a proof of the limits of human reason, a proof of our boundlessness. A declaration that were were down here on this crowded, lonely planet, a declaration that we mattered, we living clumps of ash, that each of us was once somebody, that we strove for what we could never have, that we could admit as much. That was us - funny and lousy and great all at once."]
+  },
+  
+  "Adam Phillips": {
+    "1": ["On Missing Out", "2012", "When we define ourselves by what we can recognize, by what we can comprehend- rather than, say, by what we can describe- we are continually under threat from what we are unwilling and/or unable to see. We are tyrannized by our blind spots, and by whatever it is about ourselves that we find unacceptable."],
+    "2": ["On Missing Out", "2012", "The past influences everything and dictates nothing."],
+    "3": ["On Missing Out", "2012", "To grow up is to discover what one is unequal to."],
+    "4": ["On Missing Out", "2012", "Greed is a way of avoiding making choices: if I have everything I don't have to choose what I want. And choosing what I want means giving up some pleasures for other pleasures."],
+    "5": ["On Missing Out", "2012", "Everything depends on what we would rather do than change."]
+  }
           }
