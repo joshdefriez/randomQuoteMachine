@@ -1,1 +1,98 @@
 
+//This object is organized by author, book, and date. The first tier of keys are Authors' names and the value is a nested object that
+//contains quotes. The keys of the nested object are numbers, and the values of the nested object are an array containing
+//the date, source, and text of the quote.
+//It's designed this way so that I can easily pull the quote, author, and source to display on the web app.
+
+favoriteQuotes = {
+  "Friedrich Nietzsche": {
+    1: ["The Gay Science", "1882", "Every philosophy that ranks peace above war, every ethic with a negative definition of happiness, every metaphysics and physics that knows some finale, some final state of some sort, every predominantly aesthetic or religious craving for some Apart, Beyond, Outside, Above, permits the question whether it was not sickness that inspired the philosopher. The unconscious disguise of physiological needs under the cloaks of the objective, ideal, purely spiritual goes to frightening lengths–and often I have asked myself whether, taking a large view, philosophy has not been merely an interpretation of the body and a misunderstanding of the body."]
+    2: ["The Gay Science", "1882", "…constantly, we have to give birth to our thoughts out of our pain and, like mothers, endow them with all we have of blood, heart, fire, pleasure, passion, agony, conscience, fate, and catastrophe."],
+    3: ["The Gay Science", "1882", "One should have more respect for the bashfulness with which nature has hidden behind riddles and iridescent uncertainties. Perhaps truth is a woman who has reasons for not letting us see her reasons?"],
+    4: ["The Gay Science", "1882", "Narrow souls I cannot abide; There's almost no good or evil inside."],
+    5: ["The Gay Science", "1882", "Who once wore chains, will always think/ That he is followed by their clink."],
+    6: ["The Gay Science", "1882", "Perhaps laughter will then have formed an alliance with wisdom..."],
+    7: ["On Truth and Lying in a Non-Moral Sense", "1873", "Human beings do not so much flee from being tricked as from being harmed by being tricked. Even on this level they do not hate deception but rather the damaging, inimical consequences of certain species of deception. Truth, too, is only desired by human beings in a similarly limited sense. They desire the pleasant, life-preserving consequences of truth; they are indifferent to pure knowledge if it has no consequences, but they are actually hostile towards truths which may be harmful and destructive."],
+    8: ["On Truth and Lying in a Non-Moral Sense", "1873", "What, then, is truth? A mobile army of metaphors, metonymies, anthropomorphisms, in short a sum of human relations which have been subjected to poetic and rhetorical intensification, translation, and decoration, and which, after they have been in use for a long time, strike people as firmly established, canonical, and binding; truths are illusions of which we have forgotten that they are illusions, metaphors which have become worn by frequent use and have lost all sensuous vigour, coins which, having lost their stamp, are now regarded as metal and no longer as coins.],
+    9: ["On Truth and Lying in a Non-Moral Sense", "1873", "Actually the waking human being is only clear about the fact that he is awake thanks to the rigid and regular web of concepts, and for that reason he sometimes comes to believe that he is dreaming if once that web of concepts is torn apart by art."],
+    10: ["The Birth of Tragedy", "1872", "Art saves him, and through art life saves him – for itself."],
+    11: ["The Birth of Tragedy", "1872", "Perhaps there is a kingdom of wisdom from which the logician is banished? Perhaps art may even be a necessary correlative and supplement of science?"],
+    12: 
+  }
+  
+  "James Baldwin": {
+  }
+  
+  "Mary Oliver": {
+  }
+  
+  "Khalil Gibron": {
+  }
+  
+  "Confucius": {
+  }
+  
+  "Georg Simmel": {
+    1: ["The Metropolis and Mental Life", "1903", "Man is a differentiating creature. His mind is stimulated by the difference between a momentary impression and the one which preceded it."],
+    2: ["The Metropolis and Mental Life", "1903", "Money economy and the dominance of the intellect are intrinsically connected."],
+    3: ["The Metropolis and Mental Life", "1903", "Punctuality, calculability, exactness are forced upon life by the complexity and extension of metropolitan existence and are not only most intimately connected with its money economy and intellectualistic character. These traits must also color the contents of life and favor the exclusion of those irrational, instinctive, sovereign traits and impulses which aim at determining the mode of life from within, instead of receiving the general and precisely schematized form of life from without."],
+    4: ["The Metropolis and Mental Life", "1903", "What appears in the metropolitan style of life directly as dissociation is in reality one of its elemental forms of socialization."],
+    5: ["The Metropolis and Mental Life", "1903", "Since such forces of life have grown into the roots and into the crown of the whole of the historical life in which we, in our fleeting existence, as a cell, belong only as a part, it is not our task either to accuse or to pardon, but only to understand."],
+    
+    
+  }
+  
+  "Barbara Kingsolver": {
+    1: ["The Poisonwood Bible", "1998", "Nobody had ever planted these flowers, I felt sure, nor harvested them either; these were works that the Lord has gone ahead and finished on his own. He must have lacked faith in mankind's followthrough capabilities, on the day he created flowers."],
+    
+  }
+
+  "Soren Kierkegaard": {
+  }
+  
+  "Bertrand Russell": {
+   1: ["A History of Western Philosophy", "1945", "I think this shows a misconception of the scientific attitude: it is not what the man of science believes that distinguishes him, but how and why he believes it. His beliefs are tentative, not dogmatic; they are based on evidence, not on authority or intuition."],
+  }
+
+  "Edmund Husserl": {
+   1: ["The Crisis of European Sciences and Transcendental Phenomenology", "1936", "Merely fact-minded sciences make merely fact-minded people."],
+   2: ["The Crisis of European Sciences and Transcendental Phenomenology", "1936", "The true struggles of our time, the only ones which are significant, are struggles between humanity which has already collapsed and humanity which still has roots but is struggling to keep them or find new ones."],
+    
+  }
+  
+  "Sigmund Freud": {
+    1: ["The Future of an Illusion", "1927", "To put it briefly, there are two widespread human characteristics which are responsible for the fact that the regulations of civilization can only be maintained by a certain degree of coercion--namely, that men are not spontaneously fond of work and that arguments are of no avail against their passions."],
+    2: ["The Future of an Illusion", "1927", "It is in keeping with the course of human development that external coercion gradually becomes internalized; for a special mental agency, man's super-ego, takes it over and includes it among its commandments."],
+    3: ["The Future of an Illusion", "1927", "And thus a store of ideas is created, born from man's need to make his helplessness tolerable and built up from the material of memories of the helplessness of his own childhood and the childhood of the human race."],
+    4: ["The Future of an Illusion", "1927", "The riddles of the universe reveal themselves only slowly to our investigation; there are many questions to which science today can give no answer. But scientific work is the only road which can lead us to a knowledge of reality outside ourselves. It is once again merely an illusion to expect anything from intuition and introspection; they can give us nothing but particulars about our own mental life, which are hard to interpret, never any information about the questions which religious doctrine finds it so easy to answer."],
+    5: ["The Future of an Illusion", "1927", "No, our science is no illusion. But an illusion it would be to suppose that what science cannot give us we can get elsewhere."],
+    
+  }
+
+  "Dipesh Chakrabarty": {
+    1: ["The Climate of History: Four Theses", "2009", "It is clear that different academic disciplines position their practitioners differently with regard to the question of how to view the human being. All disciplines have to create their objects of study. If medicine or biology reduces the human to a certain specific understanding of him or her, humanist historians often do not realize that the protagonists of their stories––persons––are reductions, too. Absent personhood, there is no human subject of history…An object of critical importance to humanists of all traditions, personhood is nevertheless no less of a reduction of or an abstraction from the embodied and whole human being than, say, the human skeleton discussed in an anatomy class."],
+  
+}
+  "Erich Fromm": {
+   1: ["The Art of Loving", "1956", "And maybe, here lies the answer to the question of why people in our culture try so rarely to learn this art, in spite of their obvious failures: in spite of the deep-seated craving for love, almost everything else is considered to be more important than love: success, prestige, money, power--almost all our energy is used for the learning of how to achieve these aims, and almost none to learn the art of loving."],
+   2: ["The Art of Loving", "1956", "Love is the active concern for the life and growth of that which we love."],
+}
+  
+  "Haruki Murakami": {
+    1: ["Blind Willow, Sleeping Woman", "2006", "No matter what they wish for, no matter how far they go, people can never be anything but themselves. That's all."],
+    2: ["Blind Willow, Sleeping Woman", "2006", "It was as if my entire life revolved around trying to judge the appropriate point in a conversation to say goodbye."]
+  }
+
+  "John Berger": {
+    1: ["Ways of Seeing", "1972", "If we can see the present clearly enough, we shall ask the right questions of the past."],
+    2: ["Ways of Seeing", "1972", "The bogus religiosity which now surrounds original works of art, and which is ultimately dependent upon their market value, has become the substitute for what paintings lost when the camera made them reproducible. Its function is nostalgic. It is the final empty claim for the continuing values of an oligarchic, undemocratic culture. If the image is no longer unique and exclusive, the art object, the thing, must be made mysteriously so."]
+  }
+
+  "W.E.B. DeBois": {
+    1: ["The Souls of Black Folk", "1903", "My log school house was gone. In its place stood Progress; and Progress, I understand, is necessarily ugly."]
+  }
+
+  "Oscar Wilde": {
+    1: ["The Picture of Dorian Gray", "1890", "Humanity takes itself too seriously. It is the world's original sin. If the caveman had known how to laugh, history would have been different.],
+        }
+}
