@@ -106,7 +106,49 @@ favoriteQuotes = {
   },
 
   "Oscar Wilde": {
-    "1": ["The Picture of Dorian Gray", "1890", "Humanity takes itself too seriously. It is the world's original sin. If the caveman had known how to laugh, history would have been different.],
+    "1": ["The Picture of Dorian Gray", "1890", "Humanity takes itself too seriously. It is the world's original sin. If the caveman had known how to laugh, history would have been different."],
+    "2": ["The Picture of Dorian Gray", "1890", "The books that the world calls immoral are books that show the world its own shame."],
+    "3": ["The Picture of Dorian Gray", "1890", "To define is to limit."],
+    "4": ["The Picture of Dorian Gray", "1890", "Nowadays people know the price of everything and the value of nothing."]
           },
-          
+  "Rainer Maria Rilke": {
+    "1": ["Book of Hours: Love Poems to God", "1905", "No feeling is final."],
+    "2": ["Letters to a Young Poet", "1929", "Perhaps everything that frightens us is, in its deepest essence, something helpless that wants our love."],
+    "3": ["Letters to a Young Poet", "1929", "Therefore, dear Sir, love your solitude and try to sing out with the pain it causes you. For those who are near you are far away... and this shows that the space around you is beginning to grow vast.... be happy about your growth, in which of course you can't take anyone with you, and be gentle with those who stay behind; be confident and calm in front of them and don't torment them with your doubts and don't frighten them with your faith or joy, which they wouldn't be able to comprehend. Seek out some simple and true feeling of what you have in common with them, which doesn't necessarily have to alter when you yourself change again and again; when you see them, love life in a form that is not your own and be indulgent toward those who are growing old, who are afraid of the aloneness that you trust.... and don't expect any understanding; but believe in a love that is being stored up for you like an inheritance, and have faith that in this love there is a strength and a blessing so large that you can travel as far as you wish without having to step outside it."],
+    "4": ["Letters to a Young Poet", "1929", "Why do you want to shut out of your life any uneasiness, any misery, any depression, since after all you don't know what work these conditions are doing inside you? Why do you want to persecute yourself with the question of where all this is coming from and where it is going? Since you know, after all, that you are in the midst of transitions and you wished for nothing so much as to change. If there is anything unhealthy in your reactions, just bear in mind that sickness is the means by which an organism frees itself from what is alien; so one must simply help it to be sick, to have its whole sickness and to break out with it, since that is the way it gets better."],
+    "5": ["Letters to a Young Poet", "1929", "Have patience with everything that remains unsolved in your heart. Try to love the questions themselves, like locked rooms and like books written in a foreign language. Do not now look for the answers. They cannot now be given to you because you could not live them. It is a question of experiencing everything. At present you need to live the question. Perhaps you will gradually, without even noticing it, find yourself experiencing the answer, some distant day."]
+  },
+  
+  "Rebecca Solnit": {
+    "1": ["A Field Guide to Getting Lost", "2005", "Leave the door open for the unknown, the door into the dark. That’s where the most important things come from, where you yourself came from, and where you will go."],
+    "2": ["A Field Guide to Getting Lost", "2005", "Getting lost was not a matter of geography so much as identity, a passionate desire, even an urgent need, to become no one and anyone, to shake off the shackles that remind you who you are, who others think you are."]
+  },
+  
+  "Confucius": {
+    "1": ["Analects", "6th Century BCE", "Do not be anxious when others do not understand you. Be anxious to understand others."]
+  },
+  
+  "Heraclitus": {
+    "1": ["Fragments", "5th Century BCE", "Time is a game played beautifully by children."],
+    "2": ["Fragments", "5th Century BCE", "No man ever steps in the same river twice, for it's not the same river and he's not the same man."],
+    "3": ["Fragments", "5th Century BCE", "The soul is dyed in the color of its thoughts."]
+  },
+  
+  "Fyodor Dostoyevsky": {
+    "1": ["Crime and Punishment", "1886", "To go wrong in one's own way is better than to go right in someone else's."],
+    "2": ["Crime and Punishment", "1886", "It takes something more than intelligence to act intelligently."],
+    "3": ["Crime and Punishment", "1886", "I used to analyze myself down to the last thread, used to compare myself with others, recalled all the smallest glances, smiles and words of those to whom I’d tried to be frank, interpreted everything in a bad light, laughed viciously at my attempts ‘to be like the rest’ –and suddenly, in the midst of my laughing, I’d give way to sadness, fall into ludicrous despondency and once again start the whole process all over again – in short, I went round and round like a squirrel on a wheel."],
+    "4": ["Crime and Punishment", "1886", "The fear of appearances is the first symptom of impotence."],
+    "5": ["Crime and Punishment", "1886", "Only to live, to live and live! Life, whatever it may be!"],
+    "6": ["The Double", "1846", "Sorrow is concealed in gilded palaces, and there’s no escaping it."],
+    "7": ["Notes from Underground", "1864", "To love is to suffer and there can be no love otherwise."],
+    "8": ["Notes from Underground", "1864", "I admit that twice two makes four is an excellent thing, but if we are to give everything its due, twice two makes five is sometimes a very charming thing too."]
+  },
+  
+  "Janna Levin" {
+  "1": ["A Madman Dreams of Turing Machines", "2006", "As the blood poured from his tattered heart into the open air and his brain suffocated, all those incomplete thoughts of Wittgenstein decayed with the dying neurons. Neural connections in the gray matter storing memories and ideas in their ordered configurations fired across the gaps, last gaps of mental life. Thoughts on Truth and Will were erased as flesh sloshed soft and limp against alabaster, no more than rotting human fruit."],
+  "2": ["A Madman Dreams of Turing Machines", "2006", "Sure one could argue the naturalist's case that the mind experiences an external reality in which it participates. But how can this account really satisfy us, Olga? One could equally well argue that all experiences is highly subjective, that the only thing we really have is the image, the smell, the taste, and all of our assertions about the universe are constructions of the human mind."],
+  "3": ["A Madman Dreams of Turing Machines", "2006", "We are all caught in the stream of a complicated legacy - a proof of the limits of human reason, a proof of our boundlessness. A declaration that were were down here on this crowded, lonely planet, a declaration that we mattered, we living clumps of ash, that each of us was once somebody, that we strove for what we could never have, that we could admit as much. That was us - funny and lousy and great all at once."]
+},
+
           }
