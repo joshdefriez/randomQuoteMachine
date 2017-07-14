@@ -16,42 +16,38 @@ favoriteQuotes = {"Friedrich Nietzsche": {'1': ["The Gay Science", "1882", "Ever
                                           '10': ["The Birth of Tragedy", "1872", "Art saves him, and through art life saves him – for itself."],
                                           '11': ["The Birth of Tragedy", "1872", "Perhaps there is a kingdom of wisdom from which the logician is banished? Perhaps art may even be a necessary correlative and supplement of science?"]
                                          },
-  
-  "James Baldwin": 
-  },
-  
-  "Mary Oliver": {
-  },
-  
-  "Khalil Gibron": {
-  },
-  
-  "Confucius": {
-  },
-  
-  "Georg Simmel": {
-    1: ["The Metropolis and Mental Life", "1903", "Man is a differentiating creature. His mind is stimulated by the difference between a momentary impression and the one which preceded it."],
-    2: ["The Metropolis and Mental Life", "1903", "Money economy and the dominance of the intellect are intrinsically connected."],
-    3: ["The Metropolis and Mental Life", "1903", "Punctuality, calculability, exactness are forced upon life by the complexity and extension of metropolitan existence and are not only most intimately connected with its money economy and intellectualistic character. These traits must also color the contents of life and favor the exclusion of those irrational, instinctive, sovereign traits and impulses which aim at determining the mode of life from within, instead of receiving the general and precisely schematized form of life from without."],
-    4: ["The Metropolis and Mental Life", "1903", "What appears in the metropolitan style of life directly as dissociation is in reality one of its elemental forms of socialization."],
-    5: ["The Metropolis and Mental Life", "1903", "Since such forces of life have grown into the roots and into the crown of the whole of the historical life in which we, in our fleeting existence, as a cell, belong only as a part, it is not our task either to accuse or to pardon, but only to understand."],
-    
-    
-  },
-  
-  "Barbara Kingsolver": {
-    1: ["The Poisonwood Bible", "1998", "Nobody had ever planted these flowers, I felt sure, nor harvested them either; these were works that the Lord has gone ahead and finished on his own. He must have lacked faith in mankind's followthrough capabilities, on the day he created flowers."],
-    
-  },
-
-  "Soren Kierkegaard": {
-  },
-  
-  "Bertrand Russell": {
-   1: ["A History of Western Philosophy", "1945", "I think this shows a misconception of the scientific attitude: it is not what the man of science believes that distinguishes him, but how and why he believes it. His beliefs are tentative, not dogmatic; they are based on evidence, not on authority or intuition."],
-  },
-
-  "Edmund Husserl": {
+                  
+                  "James Baldwin": {
+                  },
+                  
+                  "Mary Oliver": {
+                  },
+                  
+                  "Khalil Gibron": {
+                  },
+                  
+                  "Confucius": {
+                  },
+                  
+                  "Georg Simmel": {
+                    1: ["The Metropolis and Mental Life", "1903", "Man is a differentiating creature. His mind is stimulated by the difference between a momentary impression and the one which preceded it."],
+                    2: ["The Metropolis and Mental Life", "1903", "Money economy and the dominance of the intellect are intrinsically connected."],
+                    3: ["The Metropolis and Mental Life", "1903", "Punctuality, calculability, exactness are forced upon life by the complexity and extension of metropolitan existence and are not only most intimately connected with its money economy and intellectualistic character. These traits must also color the contents of life and favor the exclusion of those irrational, instinctive, sovereign traits and impulses which aim at determining the mode of life from within, instead of receiving the general and precisely schematized form of life from without."],
+                    4: ["The Metropolis and Mental Life", "1903", "What appears in the metropolitan style of life directly as dissociation is in reality one of its elemental forms of socialization."],
+                    5: ["The Metropolis and Mental Life", "1903", "Since such forces of life have grown into the roots and into the crown of the whole of the historical life in which we, in our fleeting existence, as a cell, belong only as a part, it is not our task either to accuse or to pardon, but only to understand."],
+                  },
+                  
+                  "Barbara Kingsolver": {
+                    1: ["The Poisonwood Bible", "1998", "Nobody had ever planted these flowers, I felt sure, nor harvested them either; these were works that the Lord has gone ahead and finished on his own. He must have lacked faith in mankind's followthrough capabilities, on the day he created flowers."],
+                  },
+                  
+                  "Soren Kierkegaard": {
+                  },
+                  
+                  '"Bertrand Russell": {
+                  1: ["A History of Western Philosophy", "1945", "I think this shows a misconception of the scientific attitude: it is not what the man of science believes that distinguishes him, but how and why he believes it. His beliefs are tentative, not dogmatic; they are based on evidence, not on authority or intuition."],
+                 },
+"Edmund Husserl": {
    1: ["The Crisis of European Sciences and Transcendental Phenomenology", "1936", "Merely fact-minded sciences make merely fact-minded people."],
    2: ["The Crisis of European Sciences and Transcendental Phenomenology", "1936", "The true struggles of our time, the only ones which are significant, are struggles between humanity which has already collapsed and humanity which still has roots but is struggling to keep them or find new ones."],
     
